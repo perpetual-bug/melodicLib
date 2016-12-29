@@ -1,0 +1,14 @@
+// Archivo para plantear la base de el modulo para crear melodias
+// Este modulo servirá como complemento con otras herramientas musicales, programáticas y web
+//
+//Una o varias octavas
+//Movimientos: Ascendente, descendente y mezclado
+
+// Espectación melódica - Crear enlaces de intervalos intuitivos
+//
+
+// Contra punto a 4 voces minimo
+// basado en la tonica
+
+// Arpegios
+// Contendra un arpegiador
